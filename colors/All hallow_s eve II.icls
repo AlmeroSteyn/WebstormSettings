@@ -1,8 +1,6 @@
 <scheme name="All hallow's eve II" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="20" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
@@ -370,7 +368,6 @@
         <option name="FOREGROUND" value="9933cc" />
       </value>
     </option>
-    <option name="DEFAULT_COMMA" baseAttributes="TEXT" />
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="3387cc" />
@@ -402,8 +399,7 @@
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
-    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="DEFAULT_INVALID_STRING_ESCAPE" baseAttributes="TEXT" />
+    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="cc7833" />
@@ -432,7 +428,6 @@
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_SEMICOLON" baseAttributes="TEXT" />
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FONT_TYPE" value="2" />
@@ -1245,7 +1240,6 @@
         <option name="FOREGROUND" value="cc7833" />
       </value>
     </option>
-    <option name="SASS_MIXIN" baseAttributes="DEFAULT_KEYWORD" />
     <option name="SASS_NUMBER">
       <value>
         <option name="FOREGROUND" value="3387cc" />
@@ -1372,7 +1366,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="SPY-JS.VALUE_HINT" baseAttributes="TEXT" />
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fda5ff" />

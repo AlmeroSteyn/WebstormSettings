@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="2016-07-01-thoughtram" type="PLAIN_TEXT" />
       <mapping ext="markdown" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

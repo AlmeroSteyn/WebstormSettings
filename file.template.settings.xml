@@ -1,9 +1,8 @@
 <application>
   <component name="ExportableFileTemplateSettings">
-    <internal_templates>
-      <template name="HTML File.html" reformat="true" live-template-enabled="true" enabled="true" />
-      <template name="HTML4 File.html" reformat="true" live-template-enabled="true" enabled="true" />
-      <template name="XHTML File.xhtml" reformat="true" live-template-enabled="true" enabled="true" />
-    </internal_templates>
+    <default_templates>
+      <template name="React Container༏ext༏..js" reformat="true" live-template-enabled="true" />
+      <template name="React Stateless.js" reformat="true" live-template-enabled="true" />
+    </default_templates>
   </component>
 </application>

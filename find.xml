@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[LINT] - ...\LINT.FrontEnd\LINT.FrontEnd.Beheer\src'" />
-    <option name="defaultScopeName" value="Directory '[LINT] - ...\LINT.FrontEnd\LINT.FrontEnd.Beheer\src'" />
+    <option name="customScope" value="Project 'LINT'" />
+    <option name="defaultScopeName" value="Project 'LINT'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '[LINT] - ...\LINT.FrontEnd\LINT.FrontEnd.Beheer\src'" />
+    <option name="SEARCH_SCOPE" value="Project 'LINT'" />
   </component>
 </application>

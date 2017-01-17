@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'LINT'" />
-    <option name="defaultScopeName" value="Project 'LINT'" />
+    <option name="customScope" value="LINT" />
+    <option name="defaultScopeName" value="LINT" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'LINT'" />
+    <option name="SEARCH_SCOPE" value="LINT" />
   </component>
 </application>

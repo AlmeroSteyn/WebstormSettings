@@ -4,7 +4,6 @@
       <mapping pattern="30minutebranded" type="HTML" />
       <mapping pattern="configureStore" type="JavaScript" />
       <mapping pattern="2016-07-01-thoughtram" type="PLAIN_TEXT" />
-      <mapping ext="markdown" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

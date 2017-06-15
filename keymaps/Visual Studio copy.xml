@@ -2,4 +2,7 @@
   <action id="TogglePresentationMode">
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
+  <action id="Tool_External Tools_Prettier">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
 </keymap>

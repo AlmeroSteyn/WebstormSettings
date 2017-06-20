@@ -2,7 +2,7 @@
   <tool name="Prettier" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="prettier.cmd" />
-      <option name="PARAMETERS" value="--write --single-quote --trailing-comma=es5 --jsx-bracket-same-line $FilePathRelativeToProjectRoot$" />
+      <option name="PARAMETERS" value="--write --single-quote --tab-width=4 --trailing-comma=none --jsx-bracket-same-line $FilePathRelativeToProjectRoot$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>

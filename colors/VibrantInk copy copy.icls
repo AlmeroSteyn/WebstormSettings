@@ -1,9 +1,9 @@
 <scheme name="VibrantInk copy copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="333300" />
@@ -11,7 +11,7 @@
     <option name="FILESTATUS_MODIFIED" value="3863a0" />
     <option name="FILESTATUS_modifiedOutside" value="6373e4" />
     <option name="GUTTER_BACKGROUND" value="0" />
-    <option name="INDENT_GUIDE" value="404040" />
+    <option name="INDENT_GUIDE" value="" />
     <option name="LINE_NUMBERS_COLOR" value="ffffff" />
     <option name="SELECTION_BACKGROUND" value="2e3f34" />
     <option name="WHITESPACES" value="404040" />

@@ -1,5 +1,13 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/react-router" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react-router-dom" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="jasmine-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>

@@ -13,7 +13,6 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="test" type="HTML" />
       <mapping pattern="2017-10-12-id24-accessible-react-tips-tools-tricks.markdown" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

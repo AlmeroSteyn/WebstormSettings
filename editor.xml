@@ -1,6 +1,6 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="40" />
+    <option name="FONT_SIZE" value="20" />
   </component>
   <component name="EditorSettings">
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />

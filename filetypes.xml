@@ -12,6 +12,7 @@
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="test" type="HTML" />
+      <mapping ext="mdx" type="Markdown" />
       <mapping pattern=".jestrc" type="PLAIN_TEXT" />
       <mapping pattern="2017-10-12-id24-accessible-react-tips-tools-tricks.markdown" type="PLAIN_TEXT" />
     </extensionMap>

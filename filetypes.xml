@@ -3,11 +3,11 @@
     <extensionMap>
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
@@ -17,6 +17,7 @@
       <mapping pattern="services" type="PLAIN_TEXT" />
       <mapping pattern="focus-catcher" type="PLAIN_TEXT" />
       <mapping pattern="changelog" type="PLAIN_TEXT" />
+      <mapping pattern="counter-02" type="PLAIN_TEXT" />
       <mapping pattern="2017-10-12-id24-accessible-react-tips-tools-tricks.markdown" type="PLAIN_TEXT" />
       <mapping pattern="_section__training_videos" type="PLAIN_TEXT" />
       <mapping pattern="spinner" type="PLAIN_TEXT" />

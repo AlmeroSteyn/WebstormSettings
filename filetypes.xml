@@ -4,16 +4,17 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="test" type="HTML" />
+      <mapping pattern="cookie-142" type="JavaScript" />
       <mapping ext="mdx" type="Markdown" />
-      <mapping pattern="_section__training_videos" type="PLAIN_TEXT" />
       <mapping pattern=".jestrc" type="PLAIN_TEXT" />
       <mapping pattern="2017-10-12-id24-accessible-react-tips-tools-tricks.markdown" type="PLAIN_TEXT" />
-      <mapping pattern="tools" type="PLAIN_TEXT" />
+      <mapping pattern="services" type="PLAIN_TEXT" />
+      <mapping pattern="focus-catcher" type="PLAIN_TEXT" />
       <mapping pattern="changelog" type="PLAIN_TEXT" />
       <mapping pattern="counter-02" type="PLAIN_TEXT" />
+      <mapping pattern="_section__training_videos" type="PLAIN_TEXT" />
       <mapping pattern="spinner" type="PLAIN_TEXT" />
-      <mapping pattern="focus-catcher" type="PLAIN_TEXT" />
-      <mapping pattern="services" type="PLAIN_TEXT" />
+      <mapping pattern="tools" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />

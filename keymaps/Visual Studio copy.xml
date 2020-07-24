@@ -3,6 +3,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift alt semicolon" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt j" />
+  </action>
   <action id="TogglePresentationMode">
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>

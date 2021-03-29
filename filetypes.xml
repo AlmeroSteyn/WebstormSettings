@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="test" type="HTML" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="cookie-142" type="JavaScript" />
       <mapping ext="mdx" type="Markdown" />
       <mapping pattern="spinner" type="PLAIN_TEXT" />

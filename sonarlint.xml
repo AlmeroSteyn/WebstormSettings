@@ -1,5 +1,14 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonarqube.tools.pgb.ictu-pd.nl/" />
+          <token>df99df9edf9bdf9bdfcedf99dfc9df9fdf99df9bdf92dfcedf9edf93dfcedf9bdf9ddf9fdf98dfcfdf99df9ddfcedfccdf9fdfcbdfcfdfcedf9bdf98dfccdf9edf93dfccdf9cdf92dfcedf9cdf9fdfce</token>
+          <option name="name" value="Ictu Sonarcube" />
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules />
   </component>
 </application>

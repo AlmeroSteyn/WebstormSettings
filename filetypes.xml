@@ -14,6 +14,7 @@
       <mapping pattern="counter-02" type="PLAIN_TEXT" />
       <mapping pattern="_section__training_videos" type="PLAIN_TEXT" />
       <mapping pattern=".jestrc" type="PLAIN_TEXT" />
+      <mapping ext="features" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
